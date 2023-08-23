@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/fayshalrana](github.com/fayshalrana)
 
-- 💬 Ask me about **HTML CSS SASS Bootstrap**
+- 💬 Ask me about **HTML CSS SASS Bootstrap React Node.JS ASP.NET-Blazor ASP.NET-MVC**
 
 - 📫 How to reach me **imfayshalrana@gmail.com**
 
