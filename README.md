@@ -9,8 +9,6 @@
 
 ###
 
-<img align="center" src="https://accumulo.apache.org/images/blog/202107_ecomp/tablet-2_6a8ba2e8ba2e8c78-files.gif"  />
-
 ###
 
 <div align="left">
@@ -47,3 +45,6 @@
 <img src="https://svgshare.com/i/zHC.svg" alt="Snake animation" />
 
 ###
+<div align="center">
+  <img align="center" src="https://accumulo.apache.org/images/blog/202107_ecomp/tablet-2_6a8ba2e8ba2e8c78-files.gif"  />
+</div>
