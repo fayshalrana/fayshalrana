@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Fayshal Rana and I'm a Frontend Developer from Dhaka Bangladesh</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" src="[https://i.imgflip.com/65efzo.gif](https://accumulo.apache.org/images/blog/202107_ecomp/tablet-2_6a8ba2e8ba2e8c78-files.gif)"  />
 
 ###
 
