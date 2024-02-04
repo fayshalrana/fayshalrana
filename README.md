@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"  />
+  <img height="150" src="https://devhumor.com/content/uploads/images/October2014/after-coding-all-night-animation.gif"  />
 </div>
 
 ###
