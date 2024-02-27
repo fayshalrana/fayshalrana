@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Fayshal Rana from Dhaka Bangladesh<br><br>- 🔭 I’m working as a Front-end developer<br>- 📚 I'm currently learning NEXT.JS<br>- ⚡ In my free time I lover sleeping</p>
+<p align="left">I'm Fayshal Rana from Dhaka Bangladesh<br><br>- 🔭 I’m working as a Front-end developer<br>- 📚 I'm currently learning NEXT.JS<br>- ⚡ In my free time I love sleeping</p>
 
 ###
 
