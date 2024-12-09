@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://svgshare.com/i/zHC.svg"  />
+  <img height="200" src="https://svgshare.com/i/zHC.svg](https://miro.medium.com/v2/resize:fit:1358/1*PlyeRxCFLCbP8cL7uuVt5g.gif"  />
 </div>
 
 ###
