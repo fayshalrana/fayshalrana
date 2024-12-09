@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1358/1*PlyeRxCFLCbP8cL7uuVt5g.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 </div>
 
 ###
